@@ -1,0 +1,2 @@
+# M2_AIAO_projets_courts
+MNIST project : classification of digits with DNN and CNN
